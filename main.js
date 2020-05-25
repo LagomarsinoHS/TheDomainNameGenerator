@@ -23,7 +23,6 @@ for (let pron of pronoun) {
         }
     }
 }
-
 /*
 Cuando hago un append mete cualquier cosa que contenga dentro de la variable, pero si lo hago creando un nodo de tipo texto, esto "filtra" para que solo ingrese texto, no etiquetas html;
  */
